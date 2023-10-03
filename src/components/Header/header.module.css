@@ -1,0 +1,14 @@
+.header {
+    background: aqua;
+
+}
+
+.header_box {
+    display: flex;
+    height: 54px;
+    max-width: 918px;
+    margin: 55px 0 55px 0;
+
+    align-items: center;
+    justify-content: space-between;
+}
